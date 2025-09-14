@@ -31,7 +31,12 @@ const (
 
 	configResponseStr = `{
     "key1":"value1",
-    "key2":"value2"
+    "key2":"value2",
+    "intValue":"123",
+    "boolValue":"true",
+    "floatValue":"123.45",
+    "stringArray":"a,b,c",
+    "intArray":"1,2,3"
   }`
 )
 
